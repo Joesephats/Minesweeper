@@ -5,9 +5,7 @@ using UnityEngine.UI;
 
 public class Minesweeper : MonoBehaviour
 {
-    /// <summary>
-    /// /////////////////////////////////////////
-    /// </summary>
+
     bool[,] grid = new bool[5, 5];
     
 
