@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -539,6 +539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &86693911
 GameObject:
   m_ObjectHideFlags: 0
@@ -687,6 +688,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &92466878
 GameObject:
   m_ObjectHideFlags: 0
@@ -969,6 +971,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &116837137
 GameObject:
   m_ObjectHideFlags: 0
@@ -1251,6 +1254,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &207989792
 GameObject:
   m_ObjectHideFlags: 0
@@ -1533,6 +1537,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &319517394
 GameObject:
   m_ObjectHideFlags: 0
@@ -1784,6 +1789,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &456637177
 GameObject:
   m_ObjectHideFlags: 0
@@ -2066,6 +2072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &542799200
 GameObject:
   m_ObjectHideFlags: 0
@@ -2254,6 +2261,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &628557834
 GameObject:
   m_ObjectHideFlags: 0
@@ -2402,6 +2410,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &662851486
 GameObject:
   m_ObjectHideFlags: 0
@@ -2684,6 +2693,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &684984779
 GameObject:
   m_ObjectHideFlags: 0
@@ -3274,6 +3284,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &908184545
 GameObject:
   m_ObjectHideFlags: 0
@@ -3422,6 +3433,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &915944402
 GameObject:
   m_ObjectHideFlags: 0
@@ -3704,6 +3716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1035056237
 GameObject:
   m_ObjectHideFlags: 0
@@ -4094,6 +4107,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1314089279
 GameObject:
   m_ObjectHideFlags: 0
@@ -4242,6 +4256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1354582489
 GameObject:
   m_ObjectHideFlags: 0
@@ -4390,6 +4405,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1372056256
 GameObject:
   m_ObjectHideFlags: 0
@@ -4538,6 +4554,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1392329642
 GameObject:
   m_ObjectHideFlags: 0
@@ -4954,6 +4971,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1431749509
 GameObject:
   m_ObjectHideFlags: 0
@@ -5507,6 +5525,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1667030056
 GameObject:
   m_ObjectHideFlags: 0
@@ -5695,6 +5714,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1688038387
 GameObject:
   m_ObjectHideFlags: 0
@@ -5977,6 +5997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1724160933
 GameObject:
   m_ObjectHideFlags: 0
@@ -6771,6 +6792,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tile: {fileID: 548672786435715876, guid: 1efe0f891457a3048b63750bff66d950, type: 3}
+  adjacentBombUI: {fileID: 3646349224550478602, guid: 26dc3051d0a973e42a22f5ffcc6958ed, type: 3}
+  bombUI: {fileID: 5949951076825305199, guid: acde473f1ef34754a844f2ecd2058233, type: 3}
   canvasTransfrom: {fileID: 319517398}
 --- !u!4 &1858083221
 Transform:
@@ -7184,6 +7207,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1969544427
 GameObject:
   m_ObjectHideFlags: 0
@@ -7332,6 +7356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1 &1978648573
 GameObject:
   m_ObjectHideFlags: 0
@@ -7614,6 +7639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   row: 0
   col: 0
+  tilePosition: {x: 0, y: 0}
 --- !u!1001 &1887145162094924614
 PrefabInstance:
   m_ObjectHideFlags: 0
